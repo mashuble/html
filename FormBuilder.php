@@ -11,7 +11,7 @@ class FormBuilder {
 	/**
 	 * The HTML builder instance.
 	 *
-	 * @var \Illuminate\Html\HtmlBuilder
+	 * @var \Mashuble\Html\HtmlBuilder
 	 */
 	protected $html;
 
@@ -75,7 +75,7 @@ class FormBuilder {
 	 * Create a new form builder instance.
 	 *
 	 * @param  \Illuminate\Routing\UrlGenerator  $url
-	 * @param  \Illuminate\Html\HtmlBuilder  $html
+	 * @param  \Mashuble\Html\HtmlBuilder  $html
 	 * @param  string  $csrfToken
 	 * @return void
 	 */
