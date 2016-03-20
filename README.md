@@ -6,7 +6,7 @@ composer require mashuble/html
 ```
 
 In `app/config.php` in the array of providers:
-```
+```php
 Mashuble\Html\HtmlServiceProvider::class,
 ```
 
