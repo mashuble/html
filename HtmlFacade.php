@@ -1,9 +1,9 @@
-<?php namespace Illuminate\Html;
+<?php namespace Mashuble\Html;
 
 use Illuminate\Support\Facades\Facade;
 
 /**
- * @see \Illuminate\Html\HtmlBuilder
+ * @see \Mashuble\Html\HtmlBuilder
  */
 class HtmlFacade extends Facade {
 

@@ -1,4 +1,4 @@
-<?php namespace Illuminate\Html;
+<?php namespace Mashuble\Html;
 
 use Illuminate\Routing\UrlGenerator;
 use Illuminate\Session\Store as Session;

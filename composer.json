@@ -1,10 +1,10 @@
 {
-    "name": "illuminate/html",
+    "name": "mashuble/html",
     "license": "MIT",
     "authors": [
         {
-            "name": "Taylor Otwell",
-            "email": "taylorotwell@gmail.com"
+            "name": "Michael TOURNAUD",
+            "email": "michaeltournaud@gmail.com"
         }
     ],
     "require": {
@@ -15,11 +15,8 @@
     },
     "autoload": {
         "psr-4": {
-            "Illuminate\\Html\\": ""
-        },
-        "files": [
-            "helpers.php"
-        ]
+            "Mashuble\\Html\\": ""
+        }
     },
     "extra": {
         "branch-alias": {
